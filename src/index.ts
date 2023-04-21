@@ -8,7 +8,7 @@ const context = new TuyaContext({
 
 const main = async () => {
 	// Define the device ID
-	const device_id = "d7819b5e6829482f25hjna1"
+	const device_id = "d7819b5e6829482f25hjna"
 	// Query device details
 	const devicedetail = await context.device.detail({
 		device_id: device_id,
