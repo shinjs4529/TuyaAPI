@@ -47,7 +47,7 @@ var main = function () { return __awaiter(void 0, void 0, void 0, function () {
     return __generator(this, function (_a) {
         switch (_a.label) {
             case 0:
-                device_id = "d7c5158d7cb6342817374a";
+                device_id = "d7819b5e6829482f25hjna";
                 return [4 /*yield*/, context.device.detail({
                         device_id: device_id,
                     })];
